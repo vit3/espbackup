@@ -1,2 +1,2 @@
 # espbackup
-Create FAST ESP 360 snapshot (archive) file.
+Create a FAST ESP 360 snapshot (archive) file.
